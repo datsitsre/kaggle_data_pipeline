@@ -4,4 +4,3 @@ python-dotenv
 psycopg2
 pandas
 terraform-install
-prefect==2.17.1
